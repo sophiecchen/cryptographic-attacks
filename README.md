@@ -1,6 +1,8 @@
 # Cryptographic Attacks
 
 This is a series of cryptographic attacks:
+* Key reuse attack: Conducts a key reuse attack on a program that uses one-time pad
+* Hash collision attack: Conducts a hash collision attack on a program that does not salt passwords
 * Length extension attack: Conducts a length-extension attack against a URL
 * Hash collision attack: Conducts a hash collision attack using MD5 hashes
 * Padding oracle attack: Decrypts a message using the padding oracle attack against a vulnerable oracle
